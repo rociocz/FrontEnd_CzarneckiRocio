@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.row{
+    background-color: #BAA8FD;
+    padding: 20px;
+    color: #000;
+}
+
+div{
+    /**background-color: #a1b5cb;**/
+}
+h1,h3{
+    display: inline;
+}

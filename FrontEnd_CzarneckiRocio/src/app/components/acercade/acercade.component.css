@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+} 
+
+.row{
+    color: #000;
+    background-color: #BAA8FD;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    /*margin-top: 2%;*/
+    /*display: flex;*/
+}
+
+#fotodeperfil{
+    border-radius: 100%;
+    width: 10rem;
+}
+
+.acerca{
+    font-size: 2rem;
+
+}
+
+.descripcion{
+    text-align: justify;
+    font-size: 1rem;
+}
+
+.fs{
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+#nombre{
+    font-weight: bold;
+}
+
+#foto{
+    margin-top: -6rem;
+}

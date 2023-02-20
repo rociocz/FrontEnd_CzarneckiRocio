@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.row{
+    padding: 20px;
+    color: #ffffff;
+}
+
+.contenedor{
+    width: auto;
+
+}
+
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;;
+}
+
+.img-proyecto{
+    box-shadow: 10px 10px 30px rgba(0,0,0);
+    /*Aclaración box-shadow ejex ejey difumacion color*/
+}
